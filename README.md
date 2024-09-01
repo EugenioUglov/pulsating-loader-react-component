@@ -1,5 +1,5 @@
 # Pulsating loader - React component
-<video src='[https://youtu.be/rKLoJtwvquY](Pulsating loader)' width=180/>
+<video src='https://youtu.be/rKLoJtwvquY' width=180/>
   
 ## Usage
 Get component from src/pulsating-loader/Loader.js
